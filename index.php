@@ -13,4 +13,4 @@ for ($i = 0; $i < $count; $i++) {
     $reverseNew = $reverse->pop();
     array_push($arr1, $reverseNew);
 }
-var_dump($arr1);
+print_r($arr1);
