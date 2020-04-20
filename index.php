@@ -14,3 +14,4 @@ for ($i = 0; $i < $count; $i++) {
     array_push($arr1, $reverseNew);
 }
 print_r($arr1);
+echo "Continue";
